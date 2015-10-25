@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">News Ukraine</string>
+
+    <string name="not_connection">Lost internet connection</string>
+    <string name="share">Share a news</string>
+</resources>
